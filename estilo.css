@@ -7,6 +7,7 @@ body{
 	padding: 0;
 	margin: 90px 100px 90px 100px;
 	background: url("images/bg.jpg") repeat-x;
+		font-family: "Myriad Pro";
 
 }
 
@@ -33,7 +34,7 @@ body{
 .header_dir{
 	float: right;
 	width: 290px;
-	background: url("images/arrow-down.png") no-repeat right center;
+	background: url("images/arrow-avatar-down.png") no-repeat right center;
 
 }
 
@@ -62,9 +63,232 @@ margin-right: 80px;
 	margin-top: 10px; 
 }
 
+.email a{
+color: white;
+
+}
+
+.email a:hover{
+text-decoration: underline;
+
+}
+
+
+.esq{
+	border: 1px solid orange;
+	width: 300px;
+	float: left;
+}
+
 .container{
 	background-color: white;
 	padding: 20px;
 	height: 861px;
+	border: 1px solid black;
 
 }
+
+
+
+.h1{
+	float: left;
+	margin-right: 20px;
+	font-size: 38px;
+}
+
+
+.h2{
+	background-color: #f2f3f5;
+	width: 225px;
+	padding: 26px 0px 26px 22px;
+	margin-top: 80px;
+	border-radius: 5px;
+	font-size: 18px;
+	margin-left: 52px;
+
+}
+
+.h3{
+	background-color: white;
+	width: 225px;
+	padding: 26px 0 0px 22px;
+	border-radius: 5px;
+	font-size: 16px;
+	color: #8798a5;
+	margin-left: 52px;
+
+}
+
+
+.arrow{
+	margin-top: 20px;
+
+}
+
+
+
+.beer{
+	float: left;
+	padding-right: 30px;
+	
+	
+}
+
+.abas{
+	margin: 50px 0px 30px;
+	width: 740px;
+	height: 70px;
+	background-color: #dcdfe1;
+	border:1px solid #d3d6d8;
+	border-radius: 3px;
+
+}
+
+.tasks{
+	float: left;
+	width: 242px;
+	height: 66px;
+	margin: 2px;
+
+}
+
+a{
+	text-decoration: none;
+}
+
+.tasks a:hover { 
+	display: block;
+	width: 242px;
+	height: 66px;
+	overflow: hidden;
+    background-color: white;
+
+}
+
+.bt{
+	width: 212px;
+	height: 50px;
+}
+
+.files{
+	float: left;
+	width: 242px;
+	height: 66px;
+	margin: 2px;
+
+
+}
+
+.files a:hover { 
+	display: block;
+	width: 242px;
+	height: 66px;
+	overflow: hidden;
+    background-color: white;
+}
+
+.discursao{
+	border-radius: 3px;
+	float: left;
+	width: 242px;
+	height: 66px;
+	margin: 2px;
+
+}
+
+.discursao a:hover { 
+	display: block;
+	width: 242px;
+	height: 66px;
+	overflow: hidden;
+    background-color: white;
+}
+
+.title{
+	padding-top: 20px;
+
+	
+	
+}
+
+.teste{
+margin: 6px auto;
+  width: 54%;
+
+	
+}
+
+
+
+
+
+.valor-1{
+	margin: 10px;
+	border-radius: 5px;
+	background-color: #15a1ea;
+	float: left;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	padding: 7px; 
+	
+
+}
+.valor-2{
+	background-color: #ff712b;
+	margin: 10px;
+	border-radius: 5px;
+	float: left;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	padding: 7px; 
+}
+
+
+.valor-3{
+	background-color: #53bc45;
+	margin: 10px;
+	border-radius: 5px;
+	float: left;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	padding: 7px;
+}
+
+
+
+.sidebar{
+width: 300px;
+float: right;
+
+}
+
+.botao{
+	width: 198px;
+	height: 50px;
+	background-color: #ff712b;
+	float: right;
+	border-radius: 5px;
+}
+
+.icone_mais{
+	font-size: 30px;
+	color: white;
+	float: left;
+	padding-top: 4px;
+		margin-left: 20px;
+}
+
+.bt{
+
+	width: 150px;
+	padding-top: 13px;
+	font-size: 20px;
+	float: right;
+	color: white;
+	
+}
+
+
